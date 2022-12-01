@@ -2,7 +2,7 @@
 
 - Search git history for a string:
 
-````
+```
 git log -S $string
 ```
 
